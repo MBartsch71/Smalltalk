@@ -10,7 +10,7 @@ Smalltalk examples and concepts
 
 #### Description
 
-The FizzBuzz solution contains of 3 files.
+The FizzBuzz solution contains of 3 files. Best viewed in RAW mode.
 
 - FizzBuzz.st
 - FizzBuzzChecker.st
